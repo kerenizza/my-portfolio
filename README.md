@@ -52,8 +52,7 @@ To run and deploy this project, you need:
 - Basic knowledge of HTML/CSS/JavaScript (optional for editing)
 - Hosting platform such as:
   - GitHub Pages
-  - Netlify
-  - Vercel
+  - Hostinger
 
 ### 📌 How to Run Locally
 
