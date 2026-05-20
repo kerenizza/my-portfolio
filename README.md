@@ -40,7 +40,7 @@ The goal is to present a clean, modern, and professional personal website that i
 
 ## 🌐 Live Website
 
-![Alt Text](imgs/demo.jpg)
+![Demo Video](img/demo.gif)
 
 ---
 
