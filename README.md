@@ -23,23 +23,19 @@ The goal is to present a clean, modern, and professional personal website that i
 ## 📷 Screenshots
 
 ## ABOUT ME
-imgs/aboutme.jpg
+![Alt Text](imgs/aboutme.jpg)
 
 ## RESUME
-imgs/resume.jpg
+![Alt Text](imgs/resume.jpg)
 
 ## PORTFOLIO
-imgs/portfolio.jpg
+![Alt Text](imgs/portfolio.jpg)
 
 ## BLOG
-imgs/blog.jpg
+![Alt Text](imgs/blog.jpg)
 
 ## CONTACT
-imgs/contact.jpg
-### Mobile View
-*(Add your screenshot here)*  
-Example: `assets/images/mobile.png`
-
+![Alt Text](imgs/contact.jpg)
 ---
 
 ## 🌐 Live Website
